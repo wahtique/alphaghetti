@@ -1,3 +1,5 @@
+package io.github.wahtique.alphaghetti
+
 object Main {
 
   def main(args: Array[String]): Unit = {
